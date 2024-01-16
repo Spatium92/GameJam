@@ -1,2 +1,11 @@
-# Blender 3.6.2 MTL File: 'Base-Corridor.blend'
-# www.blender.org
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.13472455)
+
+newmtl DefaultMaterial
+kd 0.6 0.6 0.6
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
