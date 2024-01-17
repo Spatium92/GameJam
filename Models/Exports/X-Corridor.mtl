@@ -1,2 +1,12 @@
-# Blender 3.6.2 MTL File: 'X-Corridor.blend'
-# www.blender.org
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.13472455)
+
+newmtl None
+kd 0.8 0.8 0.8
+ka 0.8 0.8 0.8
+ks 0.8 0.8 0.8
+ke 0 0 0
+d 1
+Ns 2000
+illum 2
+
