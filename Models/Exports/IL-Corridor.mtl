@@ -2,11 +2,11 @@
 # (assimp v3.1.13472455)
 
 newmtl None
-kd 0.6 0.6 0.6
-ka 0 0 0
-ks 0 0 0
+kd 0.8 0.8 0.8
+ka 0.8 0.8 0.8
+ks 0.8 0.8 0.8
 ke 0 0 0
 d 1
-Ns 8000
+Ns 2000
 illum 2
 
